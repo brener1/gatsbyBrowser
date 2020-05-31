@@ -24,11 +24,11 @@ const Somos = () => {
 
       <div className="container">
         <div className="row">
-          <div className="col-4">
+          <div className="col-6">
             <CardSomos
               titleCard="Brener Lima"
               textCard="Olá me chamo Brener de Lucca Lima Bernardino! 
-              Tenho 18 anos, moro em Londrina e atualmente sou estagiário na área de tecnologia da informação, como suporte técnico na empresa Adama Brasil S/A. Onde prestamos suporte técnico para os outros colaboradores da empresa, tanto externos quanto internos, no caso dos externos o suporte é realizado remotamente, e no caso de colaboradores internos o suporte é realizado tanto remotamente quanto presencialmente. Nós também somos responsáveis pela inclusão de usuários em nossos sistemas toda vez que uma pessoa é contratada pela empresa.
+              Tenho 19 anos, moro em Londrina e atualmente sou estagiário na área de tecnologia da informação, como suporte técnico na empresa Adama Brasil S/A. Onde prestamos suporte técnico para os outros colaboradores da empresa, tanto externos quanto internos, no caso dos externos o suporte é realizado remotamente, e no caso de colaboradores internos o suporte é realizado tanto remotamente quanto presencialmente. Nós também somos responsáveis pela inclusão de usuários em nossos sistemas toda vez que uma pessoa é contratada pela empresa.
               
               Atualmente estou cursando o 3º período de Ciência da Computação na Unifil, uma universidade de Londrina, onde já aprendi diversas técnologias voltadas para a área de desenvolvimento de software, como Java, JavaScript, HTML5, CSS3 e IONIC. Atualmente estamos estudando o framework REACT, que é usado por diversas pessoas no desenvolvimento de sistemas WEB. 
               "
@@ -36,18 +36,8 @@ const Somos = () => {
               backgroundCards="#FFFFFF"
             />
           </div>
-          <div className="col-4">
-            <CardSomos
-              titleCard="Gabriel Bernini"
-              textCard="Olá me chamo Gabriel Bernini! 
-              Tenho 19 anos, moro em Londrina onde trabalho como auxiliar administrativo na empresa Eletro Londres, atuamos como uma assistência técnica onde prestamos serviços de reparo em eletroportáteis e eletrodomésticos, atendemos diversas lojas como Magazine Luiza, Lojas MM, Moveis Brasília entre outras.
-              
-              Estou cursando o 2º ano de Ciência da Computação na Unifil, onde aprendi diversos conceitos como HTML 5, Java Script, CSS e IONIC. Atualmente estamos aprendendo sobre o framework REACT."
-              styleDefault={false}
-              backgroundCards="#FFFFFF"
-            />
-          </div>
-          <div className="col-4">
+          
+          <div className="col-6">
             <CardSomos
               titleCard="Luan Araujo"
               textCard="Olá me chamo Luan Gonçalves de Araujo! 

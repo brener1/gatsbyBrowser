@@ -48,7 +48,7 @@ const IndexPage = () => (
 
         <div className="col-4">
             <CardSPost
-              titleCard="Um pouco sobre BrowserTech"
+              titleCard="BlogEntry"
               textCard="O BrowserBlog foi uma inaciativa da matéria Projeto Interdisciplinar, onde o foco era criar um blog usando um SSG(). Optamos pelo Gatsby como ferramenta para
                desenvolvimento do mesmo. "
               styleDefault={false}

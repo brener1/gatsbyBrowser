@@ -11,14 +11,14 @@ const Tech = () => {
                     </div>
                 </div>
                 <div className="row">
-                Para o desenvolvimento do projeto optamos em usar o Gatsby, um SSG (Static Site Generator) grátis e de código aberto baseado em React com foco em tornar o desenvolvimento de sites divertido e eficiente. Para tal foi preciso fazer o uso também de: 
+                <p>Para o desenvolvimento do projeto optamos em usar o Gatsby, um SSG (Static Site Generator) grátis e de código aberto baseado em React com foco em tornar o desenvolvimento de sites divertido e eficiente. Para tal foi preciso fazer o uso também de:</p>
 
-                Hypertext Markup Language (HTML): É uma linguagem de marcação utilizada para produção de páginas na web, que permite a criação de documentos que podem ser lidos em praticamente qualquer tipo de computador e transmitidos pela internet.
+                <p>•Hypertext Markup Language (HTML): É uma linguagem de marcação utilizada para produção de páginas na web, que permite a criação de documentos que podem ser lidos em praticamente qualquer tipo de computador e transmitidos pela internet.</p>
 
-                Cascading Style Sheet (CSS): É usado para estilizar elementos escritos em uma linguagem de marcação como HTML. Com o CSS é possível alterar a cor do texto, fonte e espaçamento. É possível também criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.
+                <p>•Cascading Style Sheet (CSS): É usado para estilizar elementos escritos em uma linguagem de marcação como HTML. Com o CSS é possível alterar a cor do texto, fonte e espaçamento. É possível também criar tabelas, usar variações de layouts, ajustar imagens para suas respectivas telas e assim por diante.</p>
 
-                Bootstrap:  é um framework Front End utilizados por milhares de desenvolvedores, a partir dele muitas etapas dos desenvolvimentos web se tornam mais rápidas e dinâmicas, pois já trazem consigo diversos elementos prontos e estilizados.
-                SASS: é uma linguagem de extensão ao CSS que dá um controle mais profissional e dinâmico para suas folhas de estilo, utilizado como um framework para compor o design de uma página.
+                <p>•Bootstrap:  é um framework Front End utilizados por milhares de desenvolvedores, a partir dele muitas etapas dos desenvolvimentos web se tornam mais rápidas e dinâmicas, pois já trazem consigo diversos elementos prontos e estilizados.</p>
+            
                 </div>
             </div>
         </Layout>

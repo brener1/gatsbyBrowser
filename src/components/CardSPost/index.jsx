@@ -6,7 +6,7 @@ import { useStaticQuery, graphql } from 'gatsby'
 const CardSPost = (props) => {
     return (
         <Styled.CardV2Wrapper 
-        className="card" 
+        className="card mt-4" 
         background={props.backgroundCards}
         primary={props.styleDefault}
         >
